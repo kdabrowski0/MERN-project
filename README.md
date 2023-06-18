@@ -18,8 +18,8 @@
   
   <h2>How to run</h2>
   <ul>
-    <li>in frontend file "npm start"</li>
-    <li>in backend file "npm run dev"</li>
+    <li>in frontend folder "npm start"</li>
+    <li>in backend folder "npm run dev"</li>
     <li>App will be available at http://localhost:3000/ </li>
     <li> login: admin </li>
     <li> password: admin </li>
