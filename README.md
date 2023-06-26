@@ -6,7 +6,7 @@ The Premium Shoe Releases Calendar is a web application built using the MERN sta
 ## Technologies Used
 - MongoDB
 - Express
-- React
+- React/Redux
 - Node.js
 - CSS
 
