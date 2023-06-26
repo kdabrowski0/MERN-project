@@ -35,7 +35,7 @@ function AddShoe() {
       designer: Yup.string()
         .required("Designer is required")
         .min(2, "Designer must be at least 2 characters")
-        .max(30, "Designer must not exceed 30 characters"),
+        .max(50, "Designer must not exceed 30 characters"),
       price: Yup.number()
         .required("Price is required")
         .integer("Price is invalid"),
